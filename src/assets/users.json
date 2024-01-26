@@ -1,0 +1,38 @@
+[
+    {
+    "id": 1,
+    "role": "anonymous",
+    "isConnected": false,
+    "selected": false
+    },
+    {
+    "id": 2,
+    "role": "anonymous",
+    "isConnected": true,
+    "selected": false
+    },
+    {
+    "id": 3,
+    "role": "user",
+    "isConnected": false,
+    "selected": false
+    },
+    {
+    "id": 4,
+    "role": "user",
+    "isConnected": true,
+    "selected": false
+    },
+    {
+    "id": 5,
+    "role": "admin",
+    "isConnected": false,
+    "selected": false
+    },
+    {
+    "id": 6,
+    "role": "admin",
+    "isConnected": true,
+    "selected": false
+    }
+]
